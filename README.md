@@ -1,13 +1,13 @@
 # Task Manager & Todo List App Using Html, Css, Java Script.
 
 Overview: 
-This Task Manager & Todo List App is a simple and efficient tool designed to help you organize your tasks and manage your time effectively. Whether you're planning your day, week, or even month, this app provides you with the features you need to stay on top of your tasks.
+This Task Manager  is a simple and efficient tool designed to help you organize your tasks and manage your time effectively. Whether you're planning your day, week, or even month, this app provides you with the features you need to stay on top of your tasks.
 
 Features:
 Task Creation: Easily create new tasks.
 
 Installation:
-To install the Task Manager & Todo List App, follow these steps:
+To install the Task Manager, follow these steps:
 
 Clone the repository:
 git clone https://github.com/yourusername/task-manager.git
